@@ -1,4 +1,4 @@
-![GitHub top language](https://img.shields.io/github/languages/top/sergiomora03/BannerQuery) ![GitHub language count](https://img.shields.io/github/languages/count/sergiomora03/BannerQuery) ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/sergiomora03/BannerQuery) ![GitHub repo size](https://img.shields.io/github/repo-size/sergiomora03/BannerQuery) ![GitHub issues](https://img.shields.io/github/issues/sergiomora03/BannerQuery) ![GitHub issues](https://img.shields.io/github/issues-raw/sergiomora03/BannerQuery) 
+![GitHub top language](https://img.shields.io/github/languages/top/sergiomora03/BannerQuery) ![GitHub](https://img.shields.io/github/license/sergiomora03/BannerQuery) ![GitHub repo size](https://img.shields.io/github/repo-size/sergiomora03/BannerQuery) ![GitHub issues](https://img.shields.io/github/issues/sergiomora03/BannerQuery) ![GitHub issues](https://img.shields.io/github/issues-raw/sergiomora03/BannerQuery) 
 
 # BannerQuery [![HitCount](http://hits.dwyl.com/sergiomora03/BannerQuery.svg)](http://hits.dwyl.com/sergiomora03/BannerQuery)
 
