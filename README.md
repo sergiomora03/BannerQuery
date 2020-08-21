@@ -18,7 +18,7 @@ You can install ```BannerQuery``` with pip:
 
 # Documentation
 
-Documentation is available at http://sergiomora03.github.com/BannerQuery
+Documentation is available at http://sergiomora03.github.io/BannerQuery
 
 Tutorials are available at http://sergiomora03.github.io/BannerQuery/Tutorials.html
 
