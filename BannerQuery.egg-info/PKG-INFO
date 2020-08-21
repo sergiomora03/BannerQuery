@@ -1,0 +1,51 @@
+Metadata-Version: 2.1
+Name: BannerQuery
+Version: 0.0.1
+Summary: Easy tool to do query from Banner by Ellucian to solve problems and decision making!
+Home-page: https://github.com/sergiomora03/BannerQuery
+Author: Sergio A. Mora Pardo
+Author-email: sergiomora823@gmail.com
+License: UNKNOWN
+Description: ![GitHub top language](https://img.shields.io/github/languages/top/sergiomora03/BannerQuery) ![GitHub language count](https://img.shields.io/github/languages/count/sergiomora03/BannerQuery) ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/sergiomora03/BannerQuery) ![GitHub repo size](https://img.shields.io/github/repo-size/sergiomora03/BannerQuery) ![GitHub issues](https://img.shields.io/github/issues/sergiomora03/BannerQuery) ![GitHub issues](https://img.shields.io/github/issues-raw/sergiomora03/BannerQuery) 
+        
+        # BannerQuery [![HitCount](http://hits.dwyl.com/sergiomora03/BannerQuery.svg)](http://hits.dwyl.com/sergiomora03/BannerQuery)
+        
+        [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/sergiomora03/BannerQuery/issues) 
+        
+        Package to consult databases from [Banner](https://www.ellucian.com/es/soluciones/ellucian-banner) by [Ellucian](https://www.ellucian.com/es).
+        
+        This library corresponds to part of the work of [Sergio A. Mora Pardo](https://sergiomora03.github.io/)
+        
+        :baby: Our current version: [![PyPI version](https://badge.fury.io/py/BannerQuery.svg)](https://badge.fury.io/py/BannerQuery)
+        
+        # Installation
+        
+        You can install ```BannerQuery``` with pip:
+        
+        ```
+        # pip install BannerQuery
+        ```
+        
+        # Documentation
+        
+        Documentation is available at http://sergiomora03.github.io/BannerQuery
+        
+        Tutorials are available at http://sergiomora03.github.io/BannerQuery/Tutorials.html
+        
+        # Development
+        
+        Source code is available at https://github.com/sergiomora03/BannerQuery
+        
+        https://packaging.python.org/tutorials/creating-documentation/
+        
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Software Development :: Build Tools
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown

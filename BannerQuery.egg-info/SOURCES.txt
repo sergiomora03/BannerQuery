@@ -1,0 +1,14 @@
+.gitignore
+LICENSE
+LICENSE.txt
+MANIFEST
+README.md
+_config.yml
+setup.cfg
+setup.py
+BannerQuery/BannerQuery.py
+BannerQuery.egg-info/PKG-INFO
+BannerQuery.egg-info/SOURCES.txt
+BannerQuery.egg-info/dependency_links.txt
+BannerQuery.egg-info/top_level.txt
+dist/BannerQuery-0.1.tar.gz
