@@ -15,7 +15,7 @@ class connection_banner:
             cx_Oracle.init_oracle_client: init oracle instant client
         """
         return cx_Oracle.init_oracle_client(lib_dir=path_oracle_client)
-    def BANNER_CON(user, password, service_name, host, port = '1521'):
+    def banner_con(user, password, service_name, host, port = '1521'):
         """connection with Banner and easy make dns with cx_Oracle.
 
         Args:
