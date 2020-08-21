@@ -1,10 +1,16 @@
 from distutils.core import setup
+
+with open("README.md", "r") as fh:
+    long_description = fh.read()
+
 setup(
   name = 'BannerQuery',         # How you named your package folder (MyLib)
   packages = ['BannerQuery'],   # Chose the same as "name"
   version = '0.1',      # Start with a small number and increase it with every change you make
   license='MIT',        # Chose a license from here: https://help.github.com/articles/licensing-a-repository
   description = 'Query from Banner by Ellucian made easy to solve problems and decision making!',   # Give a short description about your library
+  long_description=long_description,
+  long_description_content_type="text/markdown",
   author = 'Sergio A. Mora Pardo',                   # Type in your name
   author_email = 'sergiomora823@gmail.com',      # Type in your E-Mail
   url = 'https://github.com/sergiomora03/BannerQuery',   # Provide either the link to your github or to your website
