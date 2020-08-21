@@ -6,6 +6,8 @@
 
 Package to consult databases from [Banner](https://www.ellucian.com/es/soluciones/ellucian-banner) by [Ellucian](https://www.ellucian.com/es).
 
+This library corresponds to part of the work of [Sergio A. Mora Pardo](https://sergiomora03.github.io/)
+
 :baby: Our current version: [![PyPI version](https://badge.fury.io/py/BannerQuery.svg)](https://badge.fury.io/py/BannerQuery)
 
 # Installation
