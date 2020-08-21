@@ -1,4 +1,4 @@
-![GitHub top language](https://img.shields.io/github/languages/top/sergiomora03/BannerQuery) ![GitHub](https://img.shields.io/github/license/sergiomora03/BannerQuery) ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/Bannerquery) ![PyPI - Wheel](https://img.shields.io/pypi/wheel/BannerQuery)
+![PyPI - Status](https://img.shields.io/pypi/status/Bannerquery) ![GitHub top language](https://img.shields.io/github/languages/top/sergiomora03/BannerQuery) ![GitHub](https://img.shields.io/github/license/sergiomora03/BannerQuery) ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/Bannerquery) ![PyPI - Wheel](https://img.shields.io/pypi/wheel/BannerQuery)
 
 # BannerQuery [![HitCount](http://hits.dwyl.com/sergiomora03/BannerQuery.svg)](http://hits.dwyl.com/sergiomora03/BannerQuery)
 
