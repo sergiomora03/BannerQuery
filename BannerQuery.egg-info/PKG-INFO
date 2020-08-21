@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: BannerQuery
-Version: 0.0.1
+Version: 0.0.2
 Summary: Easy tool to do query from Banner by Ellucian to solve problems and decision making!
 Home-page: https://github.com/sergiomora03/BannerQuery
 Author: Sergio A. Mora Pardo
@@ -43,9 +43,6 @@ Classifier: Development Status :: 3 - Alpha
 Classifier: Intended Audience :: Developers
 Classifier: Topic :: Software Development :: Build Tools
 Classifier: License :: OSI Approved :: MIT License
-Classifier: Programming Language :: Python :: 3
-Classifier: Programming Language :: Python :: 3.4
-Classifier: Programming Language :: Python :: 3.5
 Classifier: Programming Language :: Python :: 3.6
 Requires-Python: >=3.6
 Description-Content-Type: text/markdown

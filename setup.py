@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="BannerQuery", # Replace with your own username
-    version="0.0.1",
+    version="0.0.2",
     author="Sergio A. Mora Pardo",
     author_email="sergiomora823@gmail.com",
     description="Easy tool to do query from Banner by Ellucian to solve problems and decision making!",
