@@ -26,7 +26,7 @@ You can install ```BannerQuery``` with pip:
 
 Documentation is available at http://sergiomora03.github.io/BannerQuery
 
-Tutorials are available at http://sergiomora03.github.io/BannerQuery/Tutorials.html
+Tutorials are available at https://sergiomora03.github.io/post/bannerquery/
 
 # Development ![GitHub issues](https://img.shields.io/github/issues/sergiomora03/BannerQuery) ![GitHub issues](https://img.shields.io/github/issues-raw/sergiomora03/BannerQuery) 
 
