@@ -6,6 +6,8 @@
 
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/sergiomora03/BannerQuery/issues) 
 
+[github_readme repo="sergiomora03/BannerQuery"]
+
 Package to consult databases from [Banner](https://www.ellucian.com/es/soluciones/ellucian-banner) by [Ellucian](https://www.ellucian.com/es).
 
 This library corresponds to part of the work of [Sergio A. Mora Pardo](https://sergiomora03.github.io/)
