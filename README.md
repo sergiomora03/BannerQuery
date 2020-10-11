@@ -35,7 +35,7 @@ Source code is available at https://github.com/sergiomora03/BannerQuery
 https://packaging.python.org/tutorials/creating-documentation/
 
 # Welcome, I've been expecting you.
-![](./img/wellcome.svg.svg)
+![](./img/wellcome.svg)
 
 # Contact
 
